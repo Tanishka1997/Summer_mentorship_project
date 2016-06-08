@@ -1,0 +1,10 @@
+<android.support.v7.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/monday_recycler_view"
+    android:background="@drawable/selector_row"
+    android:layout_height="match_parent"
+    tools:context="com.example.tanishka.project.Monday">
+
+    <!-- TODO: Update blank fragment layout -->
+</android.support.v7.widget.RecyclerView>
